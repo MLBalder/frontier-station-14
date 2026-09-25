@@ -109,6 +109,7 @@
   recipes:
   - CondimentDispenserCircuitboard
   - ImpCoffeeMachineCircuitboard #imp
+  - SmartCabinetCircuitBoard
 
 - type: latheRecipePack
   id: NFLightsColoredStatic
